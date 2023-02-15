@@ -9,3 +9,4 @@ test
 
 #1.3 Le reste du schéma
 3- C'est la première page qui indique les valeurs des condensateurs dans la datasheet
+5- C'est la page 6 qui indique les condensateurs du DAC
