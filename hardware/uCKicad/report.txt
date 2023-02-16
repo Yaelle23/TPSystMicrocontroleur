@@ -1,0 +1,279 @@
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J1:Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical_SMD'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder'.
+Info: Processing symbol 'U3:Package_QFP:LQFP-32_7x7mm_P0.8mm'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'J2:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J3:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'U2:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'J4:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Updated R3 symbol association from  to /0ff8b813-fa1d-4b10-88fb-af6092c50d7b.
+Connected R3 pin 1 to Net-(R3-Pad1).
+Connected U1 pin 4 to unconnected-(U1-Pad4).
+Connected U1 pin 5 to +3.3V.
+Changed R3 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 100k.
+Changed REF** reference designator to R3.
+Added R3 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Connected R2 pin 2 to GND.
+Added U2 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Added R2 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Updated R3 properties.
+Add net Net-(R3-Pad1).
+Add net unconnected-(U1-Pad4).
+Connected R3 pin 2 to GND.
+Connected U1 pin 3 to +5V.
+Connected U1 pin 2 to Net-(C11-Pad2).
+Added U1 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U1.
+Changed U1 value from SOT-23-5 to BU33SD5WG-TR.
+Updated U1 symbol association from  to /ec3b4cd1-e2c7-4320-92f7-d25b23a12bc8.
+Updated U1 properties.
+Connected U1 pin 1 to +5V.
+Changed REF** reference designator to J4.
+Changed L1 value from L_0805_2012Metric_Pad1.05x1.20mm_HandSolder to 39n.
+Changed REF** reference designator to L1.
+Added L1 (footprint 'Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder').
+Connected J4 pin 2 to GND.
+Connected J4 pin 1 to +5V.
+Updated J4 properties.
+Updated J4 symbol association from  to /b7c1550c-9e87-4e49-9f8a-a591d17c02ae.
+Changed J4 value from JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical to POWER.
+Updated L1 symbol association from  to /48d21121-ff45-4ac5-8519-7f70a3fec8ba.
+Added J4 (footprint 'Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical').
+Connected J3 pin 2 to GND.
+Connected J3 pin 1 to DAC_OUT.
+Add net DAC_OUT.
+Updated J3 properties.
+Updated J3 symbol association from  to /81837675-4b0c-43fa-8974-364eb2b85907.
+Changed J3 value from JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical to OUTPUT.
+Connected R2 pin 1 to Net-(D2-Pad1).
+Updated L1 properties.
+Connected L1 pin 1 to +3.3V.
+Connected L1 pin 2 to +3.3VA.
+Added R1 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 1k.
+Updated R1 symbol association from  to /f5bcbad7-7bb5-46d8-b87f-10ea65177b00.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(D1-Pad1).
+Connected R1 pin 2 to GND.
+Connected U2 pin 1 to +3.3VA.
+Changed REF** reference designator to R2.
+Changed R2 value from R_0805_2012Metric_Pad1.20x1.40mm_HandSolder to 1k.
+Updated R2 symbol association from  to /a8826991-0b67-4aff-8d0a-06f945a03ee2.
+Updated R2 properties.
+Connected U3 pin 17 to +3.3V.
+Add net unconnected-(U3-Pad22).
+Connected U3 pin 21 to unconnected-(U3-Pad21).
+Add net unconnected-(U3-Pad21).
+Connected U3 pin 20 to unconnected-(U3-Pad20).
+Add net unconnected-(U3-Pad20).
+Connected U3 pin 19 to unconnected-(U3-Pad19).
+Add net unconnected-(U3-Pad19).
+Connected U3 pin 18 to LED_STATUS.
+Connected U3 pin 22 to unconnected-(U3-Pad22).
+Connected U3 pin 16 to GND.
+Connected U3 pin 15 to unconnected-(U3-Pad15).
+Add net unconnected-(U3-Pad15).
+Connected U3 pin 14 to unconnected-(U3-Pad14).
+Add net unconnected-(U3-Pad14).
+Connected U3 pin 13 to SPI1_MOSI.
+Connected U3 pin 12 to unconnected-(U3-Pad12).
+Connected U3 pin 27 to unconnected-(U3-Pad27).
+Connected U3 pin 32 to GND.
+Connected U3 pin 31 to Net-(R3-Pad1).
+Connected U3 pin 30 to unconnected-(U3-Pad30).
+Add net unconnected-(U3-Pad30).
+Connected U3 pin 29 to unconnected-(U3-Pad29).
+Add net unconnected-(U3-Pad29).
+Connected U3 pin 28 to unconnected-(U3-Pad28).
+Add net unconnected-(U3-Pad28).
+Add net unconnected-(U3-Pad12).
+Add net unconnected-(U3-Pad27).
+Connected U3 pin 26 to unconnected-(U3-Pad26).
+Add net unconnected-(U3-Pad26).
+Connected U3 pin 25 to unconnected-(U3-Pad25).
+Add net unconnected-(U3-Pad25).
+Connected U3 pin 24 to SWCLK.
+Connected U3 pin 23 to SWDIO.
+Connected U2 pin 3 to SPI1_SCK.
+Added U3 (footprint 'Package_QFP:LQFP-32_7x7mm_P0.8mm').
+Connected U2 pin 8 to DAC_OUT.
+Connected U2 pin 7 to GND.
+Connected U2 pin 6 to +3.3VA.
+Connected U2 pin 5 to DAC_nLDAC.
+Add net DAC_nLDAC.
+Connected U2 pin 4 to SPI1_MOSI.
+Add net SPI1_MOSI.
+Changed REF** reference designator to U3.
+Add net SPI1_SCK.
+Connected U2 pin 2 to DAC_nCS.
+Add net DAC_nCS.
+Updated J2 symbol association from  to /8fc03d84-6f23-4cf1-b42e-3d611a69f796.
+Updated U2 properties.
+Updated U2 symbol association from  to /c8397f15-cb41-4790-8e85-95c1e26befbf.
+Changed U2 value from SOIC-8_3.9x4.9mm_P1.27mm to MCP4801.
+Connected U3 pin 3 to unconnected-(U3-Pad3).
+Connected U3 pin 11 to SPI1_SCK.
+Connected U3 pin 10 to DAC_nCS.
+Connected U3 pin 9 to DAC_nLDAC.
+Connected U3 pin 8 to USART2_TX.
+Connected U3 pin 7 to ADC_IN1.
+Connected U3 pin 6 to USART2_RX.
+Connected U3 pin 5 to +3.3VA.
+Connected U3 pin 4 to NRST.
+Changed REF** reference designator to U2.
+Add net unconnected-(U3-Pad3).
+Connected U3 pin 2 to unconnected-(U3-Pad2).
+Add net unconnected-(U3-Pad2).
+Connected U3 pin 1 to +3.3V.
+Updated U3 properties.
+Updated U3 symbol association from  to /eb149507-513c-4648-b953-d3363ae7dfff.
+Changed U3 value from LQFP-32_7x7mm_P0.8mm to STM32L021K4Tx.
+Added C7 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C8.
+Added C8 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Connected C7 pin 2 to GND.
+Connected C7 pin 1 to +3.3VA.
+Updated C7 properties.
+Updated C7 symbol association from  to /78353287-cc3c-4dcf-8dab-1296e7df853d.
+Changed C7 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 10n.
+Changed REF** reference designator to C7.
+Changed C8 value from C_0805_2012Metric to 10u.
+Connected C6 pin 2 to Net-(C11-Pad2).
+Add net Net-(C11-Pad2).
+Connected C6 pin 1 to +3.3V.
+Updated C6 properties.
+Updated C6 symbol association from  to /b68a2dc9-5895-4a9e-a760-d858927fc1f4.
+Changed C6 value from C_0805_2012Metric to 1uF.
+Changed REF** reference designator to C6.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Updated C8 symbol association from  to /efee9f30-e6ba-440c-8043-505a4ddc7992.
+Updated C8 properties.
+Connected C8 pin 1 to +3.3VA.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 100n.
+Updated C9 symbol association from  to /6c13cb72-09e2-41b3-9fad-2e4fb4b934a1.
+Updated C9 properties.
+Connected C9 pin 1 to +3.3VA.
+Connected C9 pin 2 to GND.
+Added C10 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 100n.
+Updated C10 symbol association from  to /72500043-54ac-4f8b-bd46-30ba36816cd2.
+Connected C2 pin 2 to GND.
+Added C1 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C1.
+Changed C1 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 4u7.
+Updated C1 symbol association from  to /80af4768-0d70-4a6d-a712-e1b9e5e141a6.
+Updated C1 properties.
+Add net +3.3V.
+Connected C1 pin 1 to +3.3V.
+Add net GND.
+Connected C1 pin 2 to GND.
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 100n.
+Updated C2 symbol association from  to /d5a704d2-1537-4fa2-8d59-4eb15b0fa261.
+Updated C2 properties.
+Connected C2 pin 1 to +3.3V.
+Updated C10 properties.
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 100n.
+Updated C3 symbol association from  to /87452464-e65c-4196-8c70-406815b55400.
+Updated C3 properties.
+Connected C3 pin 1 to +3.3V.
+Connected C3 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0805_2012Metric_Pad1.18x1.45mm_HandSolder to 1u.
+Updated C5 symbol association from  to /c4eadda0-a01f-4f60-96ca-f38ace6cd16a.
+Updated C5 properties.
+Add net +3.3VA.
+Connected C5 pin 1 to +3.3VA.
+Connected C5 pin 2 to GND.
+Connected J1 pin 4 to SWDIO.
+Connected J1 pin 9 to unconnected-(J1-Pad9).
+Add net unconnected-(J1-Pad9).
+Connected J1 pin 8 to unconnected-(J1-Pad8).
+Add net unconnected-(J1-Pad8).
+Connected J1 pin 7 to GND.
+Connected J1 pin 6 to SWCLK.
+Add net SWCLK.
+Connected J1 pin 5 to GND.
+Add net unconnected-(J1-Pad10).
+Add net SWDIO.
+Connected J1 pin 3 to +3.3V.
+Connected J1 pin 2 to unconnected-(J1-Pad2).
+Add net unconnected-(J1-Pad2).
+Connected J1 pin 1 to unconnected-(J1-Pad1).
+Add net unconnected-(J1-Pad1).
+Updated J1 properties.
+Updated J1 symbol association from  to /c87f8f76-9d94-4a01-911b-614314331fb7.
+Connected J1 pin 10 to unconnected-(J1-Pad10).
+Connected J1 pin 11 to GND.
+Connected J1 pin 12 to NRST.
+Add net USART2_RX.
+Connected J1 pin 13 to USART2_RX.
+Add net USART2_TX.
+Connected J1 pin 14 to USART2_TX.
+Added J2 (footprint 'Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical to INPUT.
+Updated J2 properties.
+Add net ADC_IN1.
+Connected J2 pin 1 to ADC_IN1.
+Connected J2 pin 2 to GND.
+Added J3 (footprint 'Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical').
+Updated D1 properties.
+Add net NRST.
+Connected C10 pin 1 to NRST.
+Connected C10 pin 2 to GND.
+Added C11 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0805_2012Metric to 1uF.
+Updated C11 symbol association from  to /042ccb44-1e44-4bbd-9cbb-5c6aeeed7bec.
+Updated C11 properties.
+Add net +5V.
+Connected C11 pin 1 to +5V.
+Connected C11 pin 2 to Net-(C11-Pad2).
+Added D1 (footprint 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder to ORANGE_TLMO110-GS8.
+Updated D1 symbol association from  to /e234c12c-c008-4f7e-8ca1-ac1f4c83036c.
+Changed REF** reference designator to J3.
+Add net Net-(D1-Pad1).
+Connected D1 pin 1 to Net-(D1-Pad1).
+Add net LED_STATUS.
+Connected D1 pin 2 to LED_STATUS.
+Added D2 (footprint 'LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder to GREEN LED.
+Updated D2 symbol association from  to /69976cdd-a5e0-4774-812c-bc35d43a3da0.
+Updated D2 properties.
+Add net Net-(D2-Pad1).
+Connected D2 pin 1 to Net-(D2-Pad1).
+Connected D2 pin 2 to +3.3V.
+Added J1 (footprint 'Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical_SMD').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_2x07_P1.27mm_Vertical_SMD to Conn_02x07_Odd_Even.
+
+
+Info: Total warnings: 0, errors: 0.
